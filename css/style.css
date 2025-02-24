@@ -94,7 +94,7 @@ body {
     line-height: 22px;
 }
 
-.aside {
+.zaside {
     padding: 30px;
     background-color: #fff;
     border-radius: 10px;
@@ -126,4 +126,5 @@ body {
     text-align: center;
     padding: 40px;
     margin-top: 100px;
+    display: block;
 }
